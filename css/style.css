@@ -17,7 +17,7 @@ body {
     height: 400px;
     overflow: hidden;
     border-radius: 42% 56% 72% 28% / 42% 42% 56% 48%;
-    background: url('https://xatimg.com/image/ch7L7CyjCTOT.png');
+    background: url('https://xatimg.com/image/bYK9HeUwvOLn.png');
     background-size: cover;
     background-position: center;
     box-shadow: 0 0 15px rgba(0, 0, 0, .2);
@@ -98,6 +98,7 @@ body {
 .shadow-text {
     text-shadow: 2px 2px 4px #ccc;
   }
+
 
 
 
